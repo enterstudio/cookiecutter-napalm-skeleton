@@ -1,7 +1,7 @@
 
 # cookiecutter-napalm-skeleton
 
-[Cookiecutter](https://cookiecutter.readthedocs.io/en/latest/) template for [napalm-skelecon](https://github.com/napalm-automation/napalm-skeleton).
+[cookiecutter](https://cookiecutter.readthedocs.io/en/latest/) template for [napalm-skeleton](https://github.com/napalm-automation/napalm-skeleton).
 
 ## Usage
 
