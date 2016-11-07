@@ -13,7 +13,7 @@
 # the License.
 
 """
-Napalm driver for Skeleton.
+Napalm driver for {{cookiecutter.capitalized_name}}.
 
 Read napalm.readthedocs.org for more information.
 """
@@ -24,5 +24,5 @@ from napalm_base.exceptions import ConnectionException, SessionLockedException, 
                                    CommandErrorException
 
 
-class SkeletonDriver(NetworkDriver):
-    """Napalm driver for skeleton."""
+class {{cookiecutter.capitalized_name}}Driver(NetworkDriver):
+    """Napalm driver for {{cookiecutter.capitalized_name}}."""

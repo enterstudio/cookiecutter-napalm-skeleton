@@ -12,5 +12,5 @@
 # License for the specific language governing permissions and limitations under
 # the License.
 
-"""napalm_skeleton package."""
-from skeleton import SkeletonDriver
+"""{{cookiecutter.package_name}} package."""
+from {{cookiecutter.driver_name}} import {{cookiecutter.capitalized_name}}Driver
